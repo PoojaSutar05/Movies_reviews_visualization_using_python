@@ -1,0 +1,2 @@
+# Movies_reviews_visualization_using_python
+Analysis about movies_reviews,ratings and visualization using python
